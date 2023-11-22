@@ -1,0 +1,9 @@
+numpy
+pandas
+streamlit
+pillow
+opencv-python
+tensorflow
+scikit-learn
+scikit-image
+fastdtw
